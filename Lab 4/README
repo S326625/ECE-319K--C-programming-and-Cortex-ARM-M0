@@ -1,0 +1,1 @@
+//This project simulates 2 sets of traffic lights and one walk light, where traffic goes from North to South, East to West, and walking traffic in any direction. The system uses an FSM to manage the flow of traffic.
