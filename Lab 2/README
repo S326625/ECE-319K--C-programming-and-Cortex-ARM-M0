@@ -1,0 +1,1 @@
+//This lab interfaces a switch and an LED and programs the LED to operate at a variable duty-cycle determined by the switch. The LED toggles at 50 Hz with varying duty-cycle, going from 10% to 35% to 50% to 85% each time you press the switch, and staying on the current duty cycle while the switch is not pressed.
