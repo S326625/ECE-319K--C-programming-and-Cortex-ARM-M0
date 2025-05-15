@@ -1,0 +1,2 @@
+Implemented an LCD interface and device driver on an embedded system using busy-wait synchronization. Gained experience in stack-based local variable allocation and applied fixed-point arithmetic for non-integer values.
+
