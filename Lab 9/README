@@ -1,0 +1,1 @@
+Developed the game "Space Invaders" on an embedded system with a slide potentiometer to control the player's ship and two buttons for shooting and pausing. Implemented enemy ships that move and shoot back, with a scoring system based on enemies destroyed. Used interrupts for real-time game mechanics like shooting, movement, and sound effects.
