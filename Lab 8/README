@@ -1,0 +1,1 @@
+Developed a distributed system with two MSPM0 microcontrollers to transmit and receive data using UART. When the slide potentiometer on one board was adjusted, the corresponding position was transmitted via UART and displayed on the LCD of the other board, demonstrating real-time communication between transmitter and receiver modules.
